@@ -19,4 +19,4 @@ In questi file si trovano le variabili e lo stile generico dello store front:
   > Utilizzo base delle variabili di stile, come il carattere, alcuni colore base, colori base delle tabelle e dei form
 ## HTML Importanti
 Head: saleor/saleor-storefront/src/index.html
-> File base html dove troviamo l'<head> base per tutto il sito
+> File base html dove troviamo l'`<head>` base per tutto il sito
