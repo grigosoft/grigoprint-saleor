@@ -10,6 +10,7 @@ button.button {
   outline: none;
   font-family: $base-font-family;
   cursor: pointer;
+  border-radius: $button-border-radius;
 
   @media (max-width: $small-screen) {
     padding: $button-padding-small-screen;
@@ -28,7 +29,7 @@ button.button {
   }
 
   &:hover {
-    background-color: $turquoise-dark;
+    background-color: $grigoblue;
   }
 
   &:active {

@@ -1,23 +1,25 @@
 // colors
-$base-font-color: #323232;
+$base-font-color: rgba(52,60,63,1);
 $black: #000;
 $blue-dark: #190c4e;
 $blue: #21125e;
 $gray-dark: #7d7d7d;
 $gray-light: #f6f6f6;
 $gray: #c4c4c4;
-$green: #3ed256;
-$rose: #fe6e76;
+$green: #00c800;
+$rose: rgba(208,0,0,1);
 $turquoise-dark: #55c4b3;
 $turquoise-light: #f1f5f5;
 $turquoise: #51e9d2;
 $white: #fff;
 $blue-overlay: rgba($blue, 0.15);
-$autofillColor: rgb(250, 255, 189);
+$autofillColor: #feeb93;
 $autofillColorSelected: rgb(232, 240, 254);
 $darkGreen: #06847b;
 $grigoblue: #082d5b;
-$shadow: rgba(8,45,91,0.7/)
+$secondcolor: #fe7f2d;
+$positive:  #062a3b;
+$shadow: rgba(8,45,91,0.7);
 
 // typography
 $base-font-family: "Lato", sans-serif;
@@ -50,6 +52,7 @@ $button-transform: skew(45deg);
 $button-content-transform: skew(-45deg);
 $button-text-transform: uppercase;
 $button-font-weight: $bold-font-weight;
+$button-border-radius: 8px;
 
 // input
 $label-font-size: 0.75rem; // 12px

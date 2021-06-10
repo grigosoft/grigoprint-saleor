@@ -23,4 +23,6 @@ In questi file si trovano le variabili e lo stile generico dello store front:
 ## HTML Importanti
 Head: saleor/saleor-storefront/src/index.html
 > File base html dove troviamo l'`<head>` base per tutto il sito 
+## Posizione delle immagini, quali icone e logo generale.
+saleor/saleor-storefront/src/images
 
